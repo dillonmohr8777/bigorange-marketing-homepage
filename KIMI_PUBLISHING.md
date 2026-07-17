@@ -9,4 +9,4 @@ For future edits:
 3. Do not commit passwords, API keys, tokens, cookies, `.env` files, or private client exports.
 4. Return the preview link after pushing: `https://bigorange-marketing-homepage.netlify.app`
 
-Netlify is configured to redeploy from the `main` branch. Kimi only needs write access to this repository through its GitHub integration; no personal token should be pasted into chat.
+The current Netlify preview is live. Continuous GitHub-to-Netlify redeploys still require this public repository to be linked in the Netlify project; once linked, pushes to `main` will redeploy automatically. Kimi only needs write access to this repository through its GitHub integration; no personal token should be pasted into chat.
