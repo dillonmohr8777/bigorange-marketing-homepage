@@ -5,7 +5,7 @@
 Static site concept packaged from the locally available Kimi design corpus for review.
 
 - GitHub: `https://github.com/dillonmohr8777/bigorange-marketing-homepage`
-- Live preview: to be added after deployment
+- Live preview: https://bigorange-marketing-homepage.netlify.app
 
 The site is a self-contained static build. Open `index.html` locally or serve this directory with any static web host.
 
